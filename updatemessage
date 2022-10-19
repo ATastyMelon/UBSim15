@@ -1,0 +1,5 @@
+-- Simulation Activated --
+
+private string Patch_Notes;
+
+Patch_Notes = "Hello Everyone, How are you all? Today we have launched our first test of our new Gorilla Inspired Locomotion based simulation";
